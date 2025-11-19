@@ -1,7 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import Dash from '../assets/Dash.png';
 import LMS from '../assets/LMS.jfif';
+import Dash from '../assets/Dash.png';
+
 
 
 const InspectionIcon = () => (
